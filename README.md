@@ -103,8 +103,6 @@ Student Tracks Progress
 Complaint Resolved
 ```
 
----
-
 ##  Database Tables
 
 ### Students
